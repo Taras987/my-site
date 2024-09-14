@@ -1,0 +1,58 @@
+<html>
+    <title>Ми створюємо страх</title>
+    <body style="background-color:orange;font-family:sans-serif">
+        <header>
+            <img src="https://t3.ftcdn.net/jpg/02/92/95/22/360_F_292952246_QSAKffA35tz2lmQ4ox1Xy0l4FkARk2e1.jpg" width="500 px">
+        </header>
+        <main>
+            <h2 style="text-align:center;Background-color:red;font-family:fantasy" id="Helloween">Магазин прикрас"Страшилка"</h2>
+            <p style="background-color:yellow;border:2px solid red">Хеловін - це давнє свято , що починається 31 жовтня.Вважається , що саме в це свято , по людські душі приходять злі духи.Чи знали ви , що гарбузи , тобто світильнтки Джека , ставлять для відлякування цих самих духів?</p>
+            <h1 style="text-align:center;font-family:fantasy;Background-color:red">Покупка аксесуарів до хелловіну</h1>
+            <p style="background-color:yellow;border:2px solid red">Саме час прикрасити свою будівлю атмосферою страху адже незабаром вже розпочнеться лихо, та уберегти себе від нечисті. Саме ми займаємося продажом аксесуарів, а саме  - довголапі пауки,реалістичні скелети, штучна паутина, гарбузи-світильники та багато-багато іншого. Також ми можемо прикрасити цілі будівлі, та об'єкти, щоб  надати святу жахів найбільшого страху.Не залишіть жодного шансу злим істотам обірвати ваш власний хеловін.</p>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2__MWKb7iKOBDtQ00ZQcgin1ctoTJWRVWA&s" width="160">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_-3OXBbtGVaxI3yNaOl-1cYAByVgYT29SrQ&s"width="130">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Jack-o%27-Lantern_2003-10-31.jpg/640px-Jack-o%27-Lantern_2003-10-31.jpg"width="150">
+            <table style="border:2px solid red;border-collapse:collapse;background-color:yellow">
+        <h1 style="text-align:center;font-family:fantasy;Background-color:red">Товари<h1>
+                <tr style="border:1px solid green">
+                    <td>Аксесуар</td>
+                    <td>Павуки</td>
+                    <td>Скелети</td>
+                    <td>Павутиння</td>
+                    <td>Гарбузи</td>
+                    <td>Ліхтарі</td>
+                </tr>
+                <tr style="border:1px solid green">
+                    <td>Ціна</td>
+                    <td>240 грн</td>
+                    <td>750 грн</td>
+                    <td>400 грн</td>
+                    <td>250 грн</td>
+                    <td>420 грн</td>
+                </tr>
+                <tr style="border:1px solid green">
+                    <td>Кількість</td>
+                    <td>За 3 шт.</td>
+                    <td>За 1 шт.</td>
+                    <td>За 5 м.</td>
+                    <td>За 2 шт.</td>
+                    <td>За 8 шт.</td>
+                </tr>
+                <tr style="border:1px solid green">
+                    <td>Наявність</td>
+                    <td>В наявності</td>
+                    <td>В наявності</td>
+                    <td>В наявності</td>
+                    <td>Не в наявності</td>
+                    <td>В наявності</td>
+                </tr>
+            </table>
+        </main>
+        <footer>
+            <p>Підтримка:Олена Дмитрівна , Петро Клименко.</p>
+            <a href="#Helloween">Детальніше про нас</a>
+            <h1 style="text-align:center;font-family:fantasy;Background-color:red">Гарного свята!</h1>
+            <p style="background-color:yellow;border:2px solid red">Наша адреса - Машинобудівники 49 , телефон +380923435624</p>
+        </footer>
+    </body>
+</html>
